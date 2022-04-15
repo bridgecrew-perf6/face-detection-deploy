@@ -1,5 +1,14 @@
+asgiref
+Django
+joblib
 numpy
 opencv-python-headless
-pillow
+Pillow
+pytz
+scikit-learn
+scipy
 sklearn
-django
+sqlparse
+threadpoolctl
+gunicorn
+whitenoise
